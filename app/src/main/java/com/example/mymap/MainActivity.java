@@ -12,6 +12,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 import com.squareup.picasso.Picasso;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override

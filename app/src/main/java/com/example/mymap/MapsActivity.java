@@ -24,9 +24,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import android.widget.Toast;
-
 import java.security.Permission;
-
 
 public class MapsActivity extends AppCompatActivity
         implements
